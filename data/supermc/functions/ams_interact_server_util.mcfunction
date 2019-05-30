@@ -1,0 +1,17 @@
+execute positioned ~ ~ ~-7 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~-6 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~-8 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~-5 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~-4 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~-3 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~-2 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~-1 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~0 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~1 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~2 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~3 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~4 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~5 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~6 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~7 run function supermc:ams_interact_server_util_util
+execute positioned ~ ~ ~8 run function supermc:ams_interact_server_util_util

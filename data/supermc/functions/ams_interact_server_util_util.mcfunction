@@ -1,0 +1,17 @@
+execute positioned ~ ~-7 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~-8 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~-6 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~-5 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~-4 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~-3 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~-2 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~-1 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~0 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~1 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~2 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~3 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~4 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~5 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~6 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~7 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
+execute positioned ~ ~8 ~ if block ~ ~ ~ spawner{SpawnData:{ArmorItems:[{},{},{},{tag:{Interactable:1}}]}} run function supermc:smn_interactblock
