@@ -5,7 +5,7 @@
 | Version         | Supported          |
 | --------------- | ------------------ |
 | 1.0 (MC 1.14.x) | :white_check_mark: |
-| 0.1             | :x:                |
+| beta 0.1        | :x:                |
 | < 0.1           | :x:                |
 
 ## Reporting a Vulnerability
