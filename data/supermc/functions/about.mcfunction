@@ -1,1 +1,1 @@
-tellraw @s "=========================\nSuperMC v1.0 - The ultimate Minecraft framework for Items, Blocks, Structures, Event hooks and soon more\n========================="
+tellraw @s "=========================\nSuperMC v1.0 - The ultimate Minecraft framework for Items, Blocks, Structures, Event hooks and soon more\nSuperMC-Res/assets/minecraft/font/negative_spaces.ttf is taken from https://www.youtube.com/watch?v=-9bjbL1dYAE\n(C) 2019 nift4 and contributors\n========================="
